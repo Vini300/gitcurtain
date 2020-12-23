@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="info" name="GitCURTAIN" packages="">
+  <Appenders>
+    <File name="TestLogResults" fileName="logs/test_results.log">
+      <PatternLayout>
+        <Pattern>%d %p %c{1.} [%t] %m%n</Pattern>
+      </PatternLayout>
+    </File>
+  </Appenders>
+  <Loggers>
+    <Root level="info">
+      <AppenderRef ref="TestLogResults"/>
+    </Root>
+  </Loggers>
+</Configuration>

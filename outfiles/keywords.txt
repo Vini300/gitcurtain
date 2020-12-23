@@ -1,0 +1,19 @@
+\brefactor
+\brenam
+\bcleanup
+\breorganiz
+\bsimplif
+\brestructur
+\bencapsulat
+\brewrit
+\binlin
+\breformat
+\bdecompos
+change design
+code optimization
+polishing code
+replace it with
+optimize the code
+coupling
+cohesion
+reduce complexity
